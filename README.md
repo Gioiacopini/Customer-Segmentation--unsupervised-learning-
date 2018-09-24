@@ -1,4 +1,4 @@
-# Customer Segmentation and Prediction of Customer generated Revenue
+# Customer Segmentation
 
 The aim of this project is to perform customer segmentation on a dataset of e-commerce transactions. The data in question is an open source dataset created by the UCI Machine Learning Repository containing 541,909 E-commerce transactions dated from 01/12/2010 until 09/12/2011 (UCI, 2018).
 
