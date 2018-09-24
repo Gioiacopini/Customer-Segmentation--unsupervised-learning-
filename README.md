@@ -1,8 +1,6 @@
 # Customer Segmentation and Prediction of Customer generated Revenue
 
-The aim of this project is to perform customer segmentation on a dataset of e-commerce transactions. After dividing customers into segments, a linear regression is performed to predict the number of orders placed by each customer depending on a variety of different variables.
-
-The data in question is an open source dataset created by the UCI Machine Learning Repository containing 541,909 E-commerce transactions dated from 01/12/2010 until 09/12/2011 (UCI, 2018).
+The aim of this project is to perform customer segmentation on a dataset of e-commerce transactions. The data in question is an open source dataset created by the UCI Machine Learning Repository containing 541,909 E-commerce transactions dated from 01/12/2010 until 09/12/2011 (UCI, 2018).
 
 I have downloaded the dataset from Kaggle.com, a platform for predictive modelling and analytics competitions which stores open source datasets uploaded by companies or users (Kaggle, 2018).
 
